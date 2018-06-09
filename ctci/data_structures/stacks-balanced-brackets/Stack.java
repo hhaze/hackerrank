@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class Stack {
 
     static boolean isBalancedBrackets(String s) {
         Stack<Character> st = new Stack<Character>();
