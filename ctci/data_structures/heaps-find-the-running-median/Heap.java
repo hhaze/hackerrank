@@ -8,7 +8,7 @@ import java.util.regex.*;
 
 /* Reference: https://www.youtube.com/watch?v=VmogG01IjYc */
 
-public class Solution {
+public class Heap {
     public static void addNumber(int number, PriorityQueue<Integer> lowers, PriorityQueue<Integer> highers) {
         if (lowers.size() == 0 || number < lowers.peek()) {
             lowers.add(number);
