@@ -1,2 +1,2 @@
 # hackerrank
-My [Hacker Rank](https://hackerrank.com) solutions
+My [Hacker Rank](https://hackerrank.com/hhaze) solutions
